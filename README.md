@@ -67,5 +67,6 @@
   <a href="https://matheusfvieira.github.io/WebDev_Show-do_Bilhao/" target="_blank">
     <img src="/images/logo2.jpeg" height="40" alt="Bilhao"/>*
   </a>
+  
   *Apenas o site estático, pois o GitHub pages não suporta php
 </div>
