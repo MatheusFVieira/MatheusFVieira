@@ -62,6 +62,6 @@
 
 <div align="left">
   <a href="https://matheusfvieira.github.io/coltecbet" target="_blank">
-    <img src="/images/logo1.jpg" height="40" width="12" alt="ColtecBET"/>
+    <img src="/images/logo1.jpg" height="40" alt="ColtecBET"/>
   </a>
 </div>
