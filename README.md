@@ -61,7 +61,7 @@
 <h2 align="left">🚀 Portfolio</h2>
 
 <div align="left">
-  <a href="https://matheusfvieira.github.io/coltecbet" target="_blank">
+  <a href="https://matheusfvieira.github.io/ColtecBet" target="_blank">
     <img src="/images/logo1.jpg" height="40" alt="ColtecBET"/>
   </a>*
   <a href="https://matheusfvieira.github.io/WebDev_Show-do_Bilhao/" target="_blank">
