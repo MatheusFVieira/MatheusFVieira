@@ -61,10 +61,7 @@
 <h2 align="left">🚀 Portfolio</h2>
 
 <div align="left">
-  <a href="https://github.com/seu-github" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://seu-site.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  <a href="https://matheusfvieira.github.io/coltecbet" target="_blank">
+    <img src="/images/logo1.jpg" alt="GitHub" />
   </a>
 </div>
