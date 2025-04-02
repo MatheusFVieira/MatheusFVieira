@@ -62,11 +62,11 @@
 
 <div align="left">
   <a href="https://matheusfvieira.github.io/coltecbet" target="_blank">
-    <img src="/images/logo1.jpg" height="40" alt="ColtecBET"/>*
-  </a>
+    <img src="/images/logo1.jpg" height="40" alt="ColtecBET"/>
+  </a>*
   <a href="https://matheusfvieira.github.io/WebDev_Show-do_Bilhao/" target="_blank">
-    <img src="/images/logo2.jpeg" height="40" alt="Bilhao"/>*
-  </a>
+    <img src="/images/logo2.jpeg" height="40" alt="Bilhao"/>
+  </a>*
   
   *Apenas o site estático, pois o GitHub pages não suporta php
 </div>
