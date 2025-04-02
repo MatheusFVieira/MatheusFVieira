@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Matheus, eu sou um estudante de Engenharia de Softare em São Paulo, na FIAP</p>
+<p align="left">Meu nome é Matheus, sou Técnico em Desenvolvimento de Sistemas pelo COLTEC-UFMG, atualmente estudo Engenharia de Software em São Paulo, na FIAP</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about web development and backend<br>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about web development and backend</p>
 
 ###
 
@@ -40,5 +40,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
+###
+
+<h2 align="left">📬 Contact me</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/matheus-freitas-vieira-1b06ba278/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://matheusfvieira.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-FFD700?style=for-the-badge&logo=read-the-docs&logoColor=black" alt="Currículo" />
+  </a>
+  <a href="mailto:matheus.vf06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ###
+
+<h2 align="left">🚀 Portfolio</h2>
+
+<div align="left">
+  <a href="https://github.com/seu-github" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://seu-site.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
+</div>
