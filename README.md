@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
 
 ###
@@ -63,7 +65,6 @@
 <div align="left">
   🔗<a href="https://github.com/MatheusFVieira/ColtecBet" target="_blank">Coltec.bet</a>
   
-  🔗<a href="https://github.com/MatheusFVieira/WebDev_Show-do_Bilhao/" target="_blank"> Show do Bilhão</a>
-
+  🔗<a href="https://github.com/MatheusFVieira/WebDev_Show-do_Bilhao/" target="_blank"> Show do Bilhão</a> <br>
   🔗<a href="https://github.com/MatheusFVieira/Curso_php" target="_blank"> Loja Web</a>
 </div>
