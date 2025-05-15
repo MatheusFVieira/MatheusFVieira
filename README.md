@@ -63,8 +63,9 @@
 <h2 align="left">🚀 Portfolio</h2>
 
 <div align="left">
-  🔗<a href="https://github.com/MatheusFVieira/ColtecBet" target="_blank">Coltec.bet</a>
+  🔗<a href="https://github.com/MatheusFVieira/ColtecBet" target="_blank">Coltec.bet</a><br>
   
   🔗<a href="https://github.com/MatheusFVieira/WebDev_Show-do_Bilhao/" target="_blank"> Show do Bilhão</a> <br>
-  🔗<a href="https://github.com/MatheusFVieira/Curso_php" target="_blank"> Loja Web</a>
+  🔗<a href="https://github.com/MatheusFVieira/Curso_php" target="_blank"> Loja Web</a>  
+  🔗<a href="https://github.com/MatheusFVieira/AEDS_Restaurante_POO" target="_blank"> Restaurante_POO</a>
 </div>
