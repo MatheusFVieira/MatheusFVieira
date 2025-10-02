@@ -1,24 +1,27 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+### 👋 Olá! Eu sou o Matheus Freitas Vieira
 
-###
+<p align="left">
+  Sou um desenvolvedor apaixonado por tecnologia e pela criação de soluções inovadoras. Atualmente, estou cursando <strong>Engenharia de Software</strong> na FIAP, aprofundando meus conhecimentos em desenvolvimento web e backend. Tenho formação como <strong>Técnico em Desenvolvimento de Sistemas</strong> pelo COLTEC-UFMG, onde construí uma base sólida para minha carreira.
+</p>
 
-<p align="left">Meu nome é Matheus, sou Técnico em Desenvolvimento de Sistemas pelo COLTEC-UFMG, atualmente estudo Engenharia de Software em São Paulo, na FIAP</p>
+- 📚 Atualmente focado em aprimorar minhas habilidades em **Desenvolvimento Full Stack**.
+- 🚀 Buscando oportunidades para colaborar em projetos desafiadores e de impacto.
+- ✨ Transformando ideias em código desde 2022.
 
-###
+---
 
-<h2 align="left">About me</h2>
+<div align="center">
+  <a href="https://github.com/MatheusFVieira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFVieira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFVieira&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about web development and backend</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
+  <p><strong>Linguagens de Programação:</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -27,24 +30,39 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+
+  <p><strong>Desenvolvimento Web:</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+
+  <p><strong>Banco de Dados:</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
-###
+---
 
-<h2 align="left">📬 Contact me</h2>
+### 🚀 Principais Projetos
+
+- 🔗 **<a href="https://github.com/MatheusFVieira/ColtecBet" target="_blank">Coltec.bet</a>**: Plataforma completa de apostas desenvolvida com tecnologias Full Stack.
+- 🔗 **<a href="https://github.com/MatheusFVieira/WebDev_ShowDoMilhao/" target="_blank">Show do Milhão</a>**: Recriação do clássico jogo de TV, utilizando tecnologias web interativas.
+- 🔗 **<a href="https://github.com/MatheusFVieira/Curso_php" target="_blank">Loja Web PHP</a>**: Sistema de e-commerce simples construído do zero com PHP.
+- 🔗 **<a href="https://github.com/MatheusFVieira/AEDS_Restaurante_POO" target="_blank">Restaurante POO</a>**: Sistema de gerenciamento para restaurante aplicando conceitos de Programação Orientada a Objetos.
+
+---
+
+### 📫 Conecte-se Comigo
 
 <div align="left">
   <a href="https://www.linkedin.com/in/matheus-freitas-vieira-1b06ba278/" target="_blank">
@@ -56,16 +74,4 @@
   <a href="mailto:matheus.vf06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-###
-
-<h2 align="left">🚀 Portfolio</h2>
-
-<div align="left">
-  🔗<a href="https://github.com/MatheusFVieira/ColtecBet" target="_blank">Coltec.bet (Desenvolvimento Web FullStack)</a><br>
-  
-  🔗<a href="https://github.com/MatheusFVieira/WebDev_ShowDoMilhao/" target="_blank"> Show do Milhão</a> <br>
-  🔗<a href="https://github.com/MatheusFVieira/Curso_php" target="_blank"> Loja Web PHP</a>  
-  🔗<a href="https://github.com/MatheusFVieira/AEDS_Restaurante_POO" target="_blank"> Restaurante_POO</a>
 </div>
