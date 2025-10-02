@@ -55,10 +55,10 @@
 
 ### 🚀 Principais Projetos
 
-- 🔗 **<a href="https://github.com/MatheusFVieira/ColtecBet" target="_blank">Coltec.bet</a>**: Plataforma completa de apostas desenvolvida com tecnologias Full Stack.
+- 🔗 **<a href="https://github.com/MatheusFVieira/ColtecBet" target="_blank">Coltec.bet</a>**: Plataforma completa que simula uma casa de apostas desenvolvida com tecnologias Web Full Stack.
 - 🔗 **<a href="https://github.com/MatheusFVieira/WebDev_ShowDoMilhao/" target="_blank">Show do Milhão</a>**: Recriação do clássico jogo de TV, utilizando tecnologias web interativas.
-- 🔗 **<a href="https://github.com/MatheusFVieira/Curso_php" target="_blank">Loja Web PHP</a>**: Sistema de e-commerce simples construído do zero com PHP.
-- 🔗 **<a href="https://github.com/MatheusFVieira/AEDS_Restaurante_POO" target="_blank">Restaurante POO</a>**: Sistema de gerenciamento para restaurante aplicando conceitos de Programação Orientada a Objetos.
+- 🔗 **<a href="https://github.com/MatheusFVieira/Curso_php" target="_blank">Loja Web PHP</a>**: Sistema de e-commerce simples construído com PHP.
+- 🔗 **<a href="https://github.com/MatheusFVieira/AEDS_Restaurante_POO" target="_blank">Restaurante POO</a>**: Sistema de gerenciamento para restaurante aplicando conceitos de Programação Orientada a Objetos em JAVA.
 
 ---
 
